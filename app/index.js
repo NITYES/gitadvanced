@@ -4,3 +4,7 @@ function abc() {
 
 
 abc()
+
+function addtwonumber(){
+    return 2+4
+}
