@@ -13,4 +13,14 @@
 5. Edit commit message of commit before push
 => 
 
-6. 
+6. ADD origin 
+git remote add origin <url>
+
+7. set new remote url
+=> git remote set-url origin <url>
+
+#SOP WHEN WORKING ON SAME BRANCH BY TWO DEVELOPER
+1. ALWAYS TAKE PULL BEFORE STARTING NEW CHANGES
+
+8.
+
